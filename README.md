@@ -1,3 +1,3 @@
 # Gamejam-Game
-##Bruh
-###9 + 10 = 21
+## Bruh
+### 9 + 10 = 21
